@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
 dogs = ["Scout", "Bronte", "Sophie", "Tank", "arrays!"]
-dogs.pop("arrays!")
+dogs.pop.to_i("arrays!")
 end
 
 def remove_element_from_start_of_array(array)
