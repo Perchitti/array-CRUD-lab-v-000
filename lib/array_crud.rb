@@ -22,7 +22,7 @@ dogs.pop("arrays!")
 end
 
 def remove_element_from_start_of_array(array)
-dogs = ["Scout", "Bronte", "Sophie", "Tank"]
+dogs = ["Scout", "Bronte", "Sophie", "Tank", "wow"]
 dogs.shift("wow")
 end
 
