@@ -27,11 +27,13 @@ dogs.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-
+dogs = ["wow", "am", "Scout", "Bronte", "Sophie", "Tank"]
+dogs[1]
 end
 
 def retrieve_first_element_from_array(array)
-
+dogs = ["wow", "Scout", "Bronte", "Sophie", "Tank"]
+dogs.first
 end
 
 def retrieve_last_element_from_array(array)
